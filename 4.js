@@ -1,4 +1,4 @@
-/*var standard = "1st year"
+var standard = "1st year"
 
 console.log(standard)
 
@@ -20,9 +20,9 @@ console.log(box)
 // var to declare variables
 // var is almost 25 years old 
 // method to declare variables
-let fname = "suhail"
+let firstname = "suhail"
 console.log(fname)
-*/
+
 
 let fname = "rayyan"
 let lname = "ansari"
