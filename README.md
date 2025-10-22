@@ -1,2 +1,3 @@
 # rayyanJs
-creating repo practicing js
+
+## Learning about JavaScript from basics 
