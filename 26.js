@@ -1,4 +1,4 @@
-// Functions in Js
+//1 . Functions in Js
 
 /*
 a function in javascript is a block of code designed to perform a specific task.

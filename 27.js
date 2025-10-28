@@ -1,4 +1,4 @@
-// Function with Parameters
+//2. Function with Parameters
 // parameters ==> passed as variables
 // arguments ==> passed as values
 
