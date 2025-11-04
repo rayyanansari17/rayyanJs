@@ -21,7 +21,7 @@ let total = number.reduce((acc,curr) =>{
 
 console.log(total);
 
-
+// reduceRight 
 let word = ["h","e","l","l"]
 let str = word.reduceRight((a,b) => {
     return a + b
