@@ -1,8 +1,28 @@
-// throw in js 
+// try .. catch .... finally
 
 /*
+it's a way to handle errors in javascript so your program doesn't crash
 
-the throw stat
+// syntax
 
+try {
+    // code that might cause an error
+} catch (error) {
+    //code that runs *if* an error happens
+} finally {
+    // code that always runs (error or not) 
+}
 
 */
+
+
+try {
+    let output = 10 / 0
+    console.log(output);
+    console.log(output + a);
+} catch (error) {
+    console.log("ERROR");
+    console.log(error.name, error.message);
+} finally {
+    console.log("hello i will be there ");
+}
