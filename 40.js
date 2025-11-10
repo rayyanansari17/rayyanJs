@@ -13,12 +13,12 @@
 
 // */
 
-// let num = [1,2,3,4,5]
-// console.log(num);
+let num = [1,2,3,4,5]
+console.log(num);
 
-// let final = num.map((x) => x * 2)
-// console.log(final);
-// console.log(num);
+let final = num.map((x) => x * 2)
+console.log(final);
+console.log(num);
 
 
 

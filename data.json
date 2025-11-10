@@ -1,0 +1,18 @@
+[
+    {
+        "fName": "rayyan",
+        "age": 20,
+        "isAlive": true,
+        "isSleeping": null
+    },
+    {
+        
+        "fName": "rayyan",
+        "age": 20,
+        "isAlive": true,
+        "isSleeping": "undefined",
+        "Note": "without strings we cannot add anything on the right side of the value except string, boolean, number"
+    }
+    
+]
+

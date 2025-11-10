@@ -22,11 +22,11 @@ let f = false  //boolean
 // strictly not equal to !==
 
 
-let a = 5;
-let b = 3;
-let c = "3";
-let d = 2;
-let e = 5
+// let a = 5;
+// let b = 3;
+// let c = "3";
+// let d = 2;
+// let e = 5
 
 
 console.log(a == e);

@@ -6,15 +6,15 @@ a promise is an object that represents the eventual completion or failure of an 
 i'll fetch the data (pending).... if it works, i'll resolve it, if it fails, i'll reject it 
 */
 
-// const promise = new Promise ((resolve, reject) =>{
-//     let success = false
-//     if (success){
-//         resolve("task completed")
-//     } else {
-//         reject("task failed")
-//     }
-// })
-// console.log(promise);
+const promise = new Promise ((resolve, reject) =>{
+    let success = false
+    if (success){
+        resolve("task completed")
+    } else {
+        reject("task failed")
+    }
+})
+console.log(promise);
 
 /// example
 

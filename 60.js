@@ -28,21 +28,21 @@ the tutorial provides a summary of commonly used features and syntax improvement
 
 // // 5. destructuring assignment 
 
-// let person = {
-//     fname : "rayyan",
-//     age : 20,
-//     isAlive : true,
-//     isSleeping : null
+let person = {
+    fname : "rayyan",
+    age : 20,
+    isAlive : true,
+    isSleeping : null
 
-// }
+}
 
-// let {fname, age, isAlive, isSleeping } = person;
-// console.log(fname, age, isAlive, isSleeping);
+let {fname, age, isAlive, isSleeping } = person;
+console.log(fname, age, isAlive, isSleeping);
 
 
-// 6. array destructuring assignment 
+// // 6. array destructuring assignment 
 
-let arr = ["suhail", 20, null, true, undefined]
+// let arr = ["suhail", 20, null, true, undefined]
 
-let [a,b,c,d,e] = arr
-console.log(a,b,c,d,e);
+// let [a,b,c,d,e] = arr
+// console.log(a,b,c,d,e);
